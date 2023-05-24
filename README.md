@@ -10,6 +10,7 @@ metischen Ausdruck wie folgt:
 
 
 • Eine Ziffer d ∈ {0, 1, 2, 3, 4, 5, 6, 7, 8, 9} ist ein wohlgeformter arithmetischer Ausdruck.
+
 • Sind X und Y wohlgeformte arithmetische Ausdrücke, dann sind auch die vier Ausdrücke (X + Y), (X − Y), (X ∗ Y) und (X/Y) wohlgeformte arithmetische Ausdrücke.
 
 
