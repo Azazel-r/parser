@@ -1,11 +1,13 @@
 # parser
 Java Parser Programm was mathematische Ausdrücke einer gewissen Form erkennt und ggf ausrechnet.
 
+Das Hauptprogramm um zu testen ob es funktioniert war schon vorgegeben; wir sollten nur die Funktion parse() schreiben.
+
 Auszug der Aufgabenstellung:
 
-In dieser Aufgabe geht es um das Auswerten von arithmetischen Ausdrücken, welche ausschließ-
-lich aus Ziffern, öffnenden und schließenden Klammern und den Operatoren +, −, ∗, / bestehen.
-Hierbei steht der Operator „/“ für Ganzzahldivision. Wir definieren einen wohlgeformten arith-
+In dieser Aufgabe geht es um das Auswerten von arithmetischen Ausdrücken, welche ausschließlich aus Ziffern,
+öffnenden und schließenden Klammern und den Operatoren +, −, ∗, / bestehen.
+Hierbei steht der Operator „/“ für Ganzzahldivision. Wir definieren einen wohlgeformten arith
 metischen Ausdruck wie folgt:
 
 
